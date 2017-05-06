@@ -1,0 +1,21 @@
+1487898377831	geckodriver	INFO	Listening on 127.0.0.1:33165
+1487898378986	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4fLfy4rGwLn9
+1487898378987	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487898378989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39923
+1487898384009	Marionette	INFO	Listening on port 39923
+1487898626186	geckodriver	INFO	Listening on 127.0.0.1:56589
+1487898627316	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VH4PCrcq6VpJ
+1487898627317	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487898627319	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39317
+1487898628089	Marionette	INFO	Listening on port 39317
+1487898631113	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8827] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 8827] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8827] ###!!! ABORT: Aborting on channel error.: file /build/firefox-FILPL9/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
